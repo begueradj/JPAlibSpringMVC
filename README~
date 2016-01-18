@@ -1,0 +1,18 @@
+
+Library Management System Using Spring MVC & Java persistence (JPA)
+Version1.0
+
+Done:
+
+- hashing password with spring security
+- UI/Functionnal testing (Selenium)
+- support for web services
+  * REST
+- dbunit support
+- full log integration (be able to have full log in /log)
+- sitemesh
+- jetty support
+- site redirect
+- preliminary support for spring integration
+
+Author: Billal BEGUERADJ
